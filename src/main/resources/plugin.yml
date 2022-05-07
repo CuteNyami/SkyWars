@@ -1,0 +1,5 @@
+name: SkyWars
+version: '${version}'
+main: me.cutenyami.skywars.SkyWars
+authors: [ CuteNyami ]
+description: Simple Skywars plugin!
