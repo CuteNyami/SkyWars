@@ -7,7 +7,7 @@ public final class SkyWars extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        
+
     }
 
     @Override
