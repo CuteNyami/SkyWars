@@ -6,5 +6,5 @@ A simple skywars plugin for Spigot!
 * Kit selector
 * Json Config
 
-## This Spigot plugin is not finished yet!
+#### This Spigot plugin is not finished yet!
 
